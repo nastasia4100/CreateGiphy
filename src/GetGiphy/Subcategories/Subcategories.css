@@ -1,0 +1,27 @@
+.subCat {
+    position: absolute;
+    top: 0;
+    left: 100%;
+    width: 400%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.subValue {
+    display: inline-block;
+    width: 100px;
+    height: 50px;
+    color: black;
+    background: linear-gradient(to right top, #f321a6, white);
+    font-weight: 600;
+    text-transform: capitalize;
+    margin: 10px;
+    padding-left: 15px;
+    padding-top: 15px;
+    font-stretch: expanded;
+    text-align: left
+;
+}

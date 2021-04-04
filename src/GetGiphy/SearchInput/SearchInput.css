@@ -1,0 +1,22 @@
+.search {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    margin-left: 260px;
+    float: left;
+    width: 54%;
+    background: #f1f1f1;
+}
+
+.button {
+    width: 5%;
+    height: 43px;
+    padding: 10px;
+    background: #f321a6;
+    cursor: pointer;
+}
+
+.search_bar {
+    position: relative;
+    margin-top: 20px;
+}

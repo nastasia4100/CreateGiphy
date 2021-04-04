@@ -1,0 +1,32 @@
+.dropButton {
+    background: linear-gradient(to right top, #0000ff, white);
+    position: relative;
+    left: 700px;
+    margin-top: 20px;
+    height:30px;
+    width:140px;
+}
+
+.dropButton:hover, .dropButton:focus {
+    background-color: #2980B9;
+}
+
+.dropdown {
+    position:relative;
+    display:inline-block;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+    background-color: #000000;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #220318;
+    border-radius: 2px;
+    box-shadow: inset 1px 1px 10px #f3faf7;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: #0000ff;
+}

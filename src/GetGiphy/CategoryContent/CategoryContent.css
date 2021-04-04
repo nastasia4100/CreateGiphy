@@ -1,0 +1,16 @@
+.back {
+    position: absolute;
+    top: 20px;
+    height:30px;
+    width:140px;
+    background: linear-gradient(to right top, #0000ff, white);
+    left: 550px;
+}
+
+.catContainer {
+    position: absolute;
+    left: 260px;
+    top: 130px;
+    width: 190px;
+    font-size: 10.5pt;
+}

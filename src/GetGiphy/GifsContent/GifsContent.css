@@ -1,0 +1,11 @@
+.gifs_design {
+    border: 20px solid;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    width: 65%;
+    margin-left: 200px;
+}

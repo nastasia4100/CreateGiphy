@@ -5,9 +5,23 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: black;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.dropButton {
+  background: linear-gradient(to right top, #0000ff, white);
+  position: relative;
+  left: 700px;
+  margin-top: 20px;
+  height:30px;
+  width:140px;
+}
+
+.dropButton:hover, .dropButton:focus {
+  background-color: #2980B9;
 }
